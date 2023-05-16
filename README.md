@@ -9,7 +9,7 @@
 </div>
 <div>
 <!--Illustration-->
-<img align="left" src="./images/image.png">
+<img align="left" src="./image.png">
 
 <!--Langs-->
 <br><br>
